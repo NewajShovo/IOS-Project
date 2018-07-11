@@ -1,1 +1,1 @@
-This is an web project in .NET frame work.This is an hospital management system.There is both admin and user login system, emailing, captcha,appointment scheduling and many more.
+This app was developed for IOS app.It supports login,sign in using firbase database and also parse data from an api.
